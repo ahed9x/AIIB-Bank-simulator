@@ -1,3 +1,4 @@
+![Apache License 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 # AIIB Bank Web Application
 
 AIIB Bank is a simple web application built with Flask that allows users to create accounts, log in, manage their balances, and transfer funds to other users. It also features secure data handling with encryption and QR code authentication.
