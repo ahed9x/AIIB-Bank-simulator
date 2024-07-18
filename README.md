@@ -94,6 +94,6 @@ If you have any questions or suggestions, please feel free to contact me.
 
 email: ahmed.omar.zeinelabdin@gmail.com
 
-
+---
 
 - The application uses self-signed SSL for development purposes (`ssl_context='adhoc'`). For production, you should use a proper SSL certificate.
